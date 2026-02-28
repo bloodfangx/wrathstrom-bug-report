@@ -1,4 +1,4 @@
-### Wrathstrom Bug Reporting Guidelines **
+### Wrathstrom Bug Reporting Guidelines
 To ensure the efficient resolution of technical issues and gameplay bugs, please adhere to the following documentation standards when submitting a report. High-quality, detailed reports allow our development team to identify and resolve issues more effectively.
 Submission Standards
 Search Existing Reports: Prior to submitting a new ticket, consult the "Issues" tab to ensure the bug has not already been reported. Duplicate tickets will be closed.
