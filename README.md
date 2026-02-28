@@ -1,55 +1,52 @@
-### Wrathstrom Bug Report Guide
-Welcome to the Wrathstrom Bug Tracker. To help our development team fix issues as quickly as possible, please follow this template when reporting a bug. High-quality reports get fixed first!
+### Wrathstrom Bug Reporting Guidelines **
+To ensure the efficient resolution of technical issues and gameplay bugs, please adhere to the following documentation standards when submitting a report. High-quality, detailed reports allow our development team to identify and resolve issues more effectively.
+Submission Standards
+Search Existing Reports: Prior to submitting a new ticket, consult the "Issues" tab to ensure the bug has not already been reported. Duplicate tickets will be closed.
+Single Issue Per Ticket: Do not combine multiple unrelated bugs into a single report. Each distinct issue requires its own submission for tracking purposes.
+Specific Documentation: Vague descriptions (e.g., "The quest is broken") provide insufficient data for debugging. Provide specific names, locations, and observed behaviors.
+Database References: Include relevant identification numbers (IDs) from Wowhead or our internal database to ensure accuracy.
+Bug Report Template
+Please copy and paste the following block into your report and provide the requested information.
 
-### Quick Rules
-Search First: Check the "Issues" tab to see if your bug has already been reported.[1][2]
-One Bug Per Ticket: Do not combine multiple unrelated issues into one report.
-Be Descriptive: "Quest is broken" doesn't help. "Quest [A Special Delivery] NPC doesn't spawn" does.
-Include IDs: Provide links or IDs from Wowhead or our database.
-🛠 Bug Report Template
-Copy and paste the section below into your issue.
-code
-Markdown
-### 🔗 Link / ID
-- **NPC Name/ID:** [e.g., The Lich King - 36597]
-- **Spell Name/ID:** [e.g., Death Coil - 47541]
-- **Item Name/ID:** [e.g., Shadowmourne - 49623]
-- **Quest Name/ID:** [e.g., The Battle For Undercity - 13267]
+### Technical Identifiers
+- NPC Name/ID: [e.g., The Lich King - 36597]
+- Spell Name/ID: [e.g., Death Coil - 47541]
+- Item Name/ID: [e.g., Shadowmourne - 49623]
+- Quest Name/ID: [e.g., The Battle For Undercity - 13267]
 
 ### Description
-Provide a clear and concise description of what the bug is.
+Provide a clear and concise summary of the issue.
 
 ### Steps to Reproduce
-1. Log in to Wrathstrom.
-2. Go to [Location Name].
-3. Perform [Action/Cast Spell/Talk to NPC].
-4. Observe the bug.
+1. Log in to the Wrathstrom realm.
+2. Navigate to [Location Name].
+3. Perform [Action/Cast Spell/Interact with NPC].
+4. Observe the resulting behavior.
 
 ### Expected Result
-What *should* happen based on retail/Blizzlike behavior?
+Describe the correct behavior based on original Wrath of the Lich King mechanics or retail references.
 
 ### Actual Result
-What is *currently* happening on Wrathstrom?
+Describe the current behavior as it occurs on Wrathstrom.
 
 ### Evidence
-(Optional but highly recommended)
-- Attach a screenshot or a YouTube link showing the bug.
-- Link to a retail video or Wowhead comment proving it should work differently.
+- Attach screenshots or video links demonstrating the issue.
+- Provide links to historical data (Wowhead comments, archived videos) to support the expected behavior.
 
 ### Environment Details
-- **Realm:** [e.g., Northrend x1 / Frostmourne x7]
-- **Character Name:** [Your Character Name]
-- **Class/Race:** [e.g., Human Paladin]
+- Realm: [e.g., Wrathstrom]
+- Character Name: 
+- Class/Race:
 
-### Priority Definitions
-When we review your report, we will assign a priority label:
-Critical: Server crashes, exploits, game-breaking progression blocks.
-High: Major spells/talents not working, main quest chains broken.
-Medium: Minor quest bugs, visual glitches, loot table errors.
-Low: Typos, minor cosmetic issues.
 
-### Where do I find IDs?
-To find the ID of a quest, item, or NPC, look at the URL on Wowhead.
+Priority Classifications
+Submitted reports are triaged based on the following severity levels:
+Critical: Server instability, exploits, or issues that prevent progression entirely.
+High: Significant class talents or spells not functioning; primary quest chains broken.
+Medium: Minor quest bugs, visual discrepancies, or loot table inconsistencies.
+Low: Typographical errors and minor cosmetic or aesthetic issues.
+Identification Procedures
+To locate the ID of a quest, item, or NPC, refer to the URL of the object on Wowhead.
 Example: https://www.wowhead.com/wotlk/npc=36597/the-lich-king
-The ID is 36597.
-Thank you for helping us make Wrathstrom the best WotLK experience! ❄️⚡
+The numerical string following "npc=" or "item=" is the required ID (e.g., 36597).
+Your contributions are essential to the continued improvement of the Wrathstrom environment. Thank you for your detailed reporting.
