@@ -41,7 +41,7 @@ Describe the current behavior as it occurs on Wrathstrom.
 - Provide links to historical data (Wowhead comments, archived videos) to support the expected behavior.
 
 ### Environment Details
-- Realm: [e.g., Northrend x1 / Frostmourne x7]
+- Realm: [e.g., Maelstrom x1 / Wrathstrom x7]
 - Character Name: 
 - Class/Race: 
 ```
