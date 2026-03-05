@@ -59,9 +59,9 @@ Submitted reports are triaged based on the following severity levels:
 
 ### Identification Procedures
 
-To locate the ID of a quest, item, or NPC, refer to the URL of the object on Wowhead. 
+To locate the ID of a quest, item, or NPC, refer to the URL of the object on Wowhead. Or Any other DB online with valid info
 
 *   **Example:** `https://www.wowhead.com/wotlk/npc=36597/the-lich-king`
 *   The numerical string following "npc=" or "item=" is the required ID (e.g., 36597).
 
-Your contributions are essential to the continued improvement of the Wrathstrom environment. Thank you for your detailed reporting.
+Your contributions are essential to further Improve Wrathstrom, Thank you!
